@@ -1,0 +1,1 @@
+BTK Akademide Merve Ayyüce Kızrak hocamız tarafından düzenlenen "Keras ile Derin Öğrenmeye Giriş" eğitiminde not aldığım kodlar. NOT: BTK Akademi "Keras ile Derin Öğrenmeye Giriş" sertifikasına sahibim.
